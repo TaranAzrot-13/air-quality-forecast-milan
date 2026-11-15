@@ -7,7 +7,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TaranAzrot-13/air-quality-forecast-milan/blob/main/air_quality_forecast.ipynb)
 
-**Demo video:** [video link]
+**Demo video:** [[video link]](https://drive.google.com/file/d/1S0xjB7F1OhJUhcBiH4DRJVHvtZHiY58F/view?usp=sharing)
 
 ## The problem
 
