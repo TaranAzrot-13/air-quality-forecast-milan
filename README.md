@@ -6,7 +6,7 @@
 
 *This project is a prototype. It is not an official health or air-quality warning.*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TaranAzrot-13/air-quality-forecast-milan/blob/main/air_quality_forecast.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TaranAzrot-13/air-quality-forecast-milan/blob/main/air_quality_forecast_milan.ipynb\)
 
 **Demo video:** [[video link]](https://drive.google.com/file/d/1S0xjB7F1OhJUhcBiH4DRJVHvtZHiY58F/view?usp=sharing)
 
