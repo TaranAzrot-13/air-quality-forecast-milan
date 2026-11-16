@@ -1,7 +1,8 @@
 # Next-day air quality forecast for Milan
 
 **Track:** Climate, project 4.3.2 (Next-day air quality forecast)
-**Team:** [Name 1], [Name 2], [Name 3]
+
+**Team:** YONK by Gozzini Raffaele, Hnida Rayan, Singh Taranpreet
 
 *This project is a prototype. It is not an official health or air-quality warning.*
 
